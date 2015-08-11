@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PathEffectTextView">
+        <attr name="text_color" format="color" />
+        <attr name="multiple" format="boolean" />
+        <attr name="stroke_width" format="float" />
+    </declare-styleable>
+</resources>
