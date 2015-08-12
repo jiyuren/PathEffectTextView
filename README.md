@@ -5,6 +5,15 @@ TextView with path tracing effect.
 ![PathEffectTextView](https://raw.githubusercontent.com/alokvnair/PathEffectTextView/master/screens/pathEffective.gif)
 
 ###Usage
+
+You can add to your project by adding the following dependency to your `build.gradle`
+
+```
+dependencies {
+    compile 'com.alokvnair:patheffecttextview:1.0.1'
+}
+```
+
 has three attribute `text_color`, `stroke_width`, `multiple`
 
 ```xml

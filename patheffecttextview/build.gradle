@@ -32,7 +32,7 @@ ext {
     artifact = 'patheffecttextview'
 
     libraryDescription = 'TextView with path tracing effect'
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'alokvnair'
     developerName = 'Alok Nair'
