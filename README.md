@@ -1,4 +1,4 @@
-# PathEffectTextView [![Download](https://api.bintray.com/packages/alokvnair/maven/PathEffectTextView/images/download.svg)](https://bintray.com/alokvnair/maven/PathEffectTextView/_latestVersion)
+# PathEffectTextView [![Download](https://api.bintray.com/packages/alokvnair/maven/PathEffectTextView/images/download.svg)](https://bintray.com/alokvnair/maven/PathEffectTextView/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PathEffectTextView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2305)
 
 TextView with path tracing effect.
 
